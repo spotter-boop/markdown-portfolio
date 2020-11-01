@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have many amazing attributes I can;
+- [ ] sail
+- [ ] Scuba dive
+- [ ] sleep
+
+There is simply no beginnging to my talents
