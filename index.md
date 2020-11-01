@@ -1,6 +1,9 @@
----
-layout: default
----
 
-{% include 01-name.md %}
+
+![picture of lockdown outfit](https://octodex.github.com/images/yaktocat.png)
+
+<BR>
+  
+![picture of lockdown outfit](https://octodex.github.com/images/yaktocat.png)  
+
 
